@@ -1,0 +1,23 @@
+[
+    {
+        "question 1 ":"In which Italian city can you find the Colosseum?",
+        "A":"Venice",
+        "B":" Rome", 
+        "C":"Naples" , 
+        "D":"Milan" , 
+        "Answer":"Rome"
+        
+    } , 
+
+    {
+        "question 2 ":"What is the largest canyon in the world?",
+        "A":"Verdon Gorge, France",
+        "B":"Kings Canyon, Australia ", 
+        "C":"Grand Canyon, USA" , 
+        "D":"Yarlung Tsangpo Grand Canyon, China" , 
+        "Answer":"Yarlung Tsangpo Grand Canyon, China"
+        
+    } 
+
+
+] 
